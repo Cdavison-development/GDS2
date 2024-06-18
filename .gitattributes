@@ -1,1 +1,2 @@
 weather-and-pollution-dashboard.ipynb filter=lfs diff=lfs merge=lfs -text
+weather-and-pollution-dashboard-html.html filter=lfs diff=lfs merge=lfs -text
